@@ -1,0 +1,3 @@
+[submodule "vizdoom"]
+	path = vizdoom
+	url = https://github.com/Farama-Foundation/ViZDoom.git
